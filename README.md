@@ -1,4 +1,8 @@
-# protonaosp-redfin-builds
+<div align="center">
+
+# ProtonAOSP builds for Google Pixel 5 (redfin)
+</div>
+
 Just a regular ProtonAOSP 12.4.1 build but packed as OTA package. 
 For some reason, kdrag0n didn't ever released ProtonAOSP builds as OTA packages for modern Pixel devices, therefore today we cannot use this great ROM with, for example, [avbroot,](https://github.com/chenxiaolong/avbroot) which allows to run a custom ROM with root-access paired by AVB and locked bootloader.
 
@@ -10,4 +14,7 @@ Notes:
 
 Build are only compatible with Google Pixel 5 (redfin) and comes only with pre-installed GApps. No further support or updates are implied.
 
-[Download](https://github.com/reddxae/protonaosp-redfin-builds/releases) • [Source code](https://github.com/ProtonAOSP/android_manifest/tree/sc-qpr3)
+<div align="center">
+
+[Visit website](https://protonaosp.org) • [Download](https://github.com/reddxae/protonaosp-redfin-builds/releases) • [Source code](https://github.com/ProtonAOSP/android_manifest/tree/sc-qpr3)
+</div>
