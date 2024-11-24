@@ -16,5 +16,5 @@ Build are only compatible with Google Pixel 5 (redfin) and comes only with pre-i
 
 <div align="center">
 
-[Visit website](https://protonaosp.org) • [Download](https://github.com/reddxae/protonaosp-redfin-builds/releases) • [Source code](https://github.com/ProtonAOSP/android_manifest/tree/sc-qpr3)
+[Visit website](https://protonaosp.org) • [Download](https://github.com/reddxae/protonaosp-redfin-ota/releases) • [Source code](https://github.com/ProtonAOSP/android_manifest/tree/sc-qpr3)
 </div>
