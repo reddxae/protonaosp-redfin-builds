@@ -4,8 +4,9 @@ For some reason, kdrag0n didn't ever released ProtonAOSP builds as OTA packages 
 
 So [I built the ROM](https://protonaosp.org/developers/build) in its original form using the latest sources but now in OTA package format (factory images available too). You can freely use it together with avbroot. **ROM is signed** with private keys, just like kdrag0n's official builds.
 
-1. The factory images archive does not contain avb_custom_key for bootloader, implying that you will assign it with your own key.
-2. ROM is bundled with the same stock firmware as official ProtonAOSP 12.4.1 (SQ3A.220705.003.A1).
+Notes:
+1. The factory images archive does not contain `avb_custom_key` for bootloader, implying that you will assign it with your own keys.
+2. ROM is bundled with the same stock firmware as official ProtonAOSP 12.4.1 (SQ3A.220705.003.A1), so you don't have to flash required firmware version beforehand.
 
 Build are only compatible with Google Pixel 5 (redfin) and comes only with pre-installed GApps. No further support or updates are implied.
 
