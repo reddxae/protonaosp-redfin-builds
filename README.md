@@ -14,6 +14,7 @@ Notes:
 Additionally, I offer personal builds of ProtonAOSP 11.6.0. Changes:
 * **Fixed support for modern versions of Magisk/KernelSU.** [Find out how if you need so.](https://gist.github.com/reddxae/749b30675099e6bec4195fbe71ea0bb4)
 * Media volume steps raised to 35.
+* Added three fingers swipe to screenshot gesture.
 * Updated fonts: FiraCode [6.2,](https://github.com/tonsky/FiraCode/releases/tag/6.2) Source Serif [4.005.](https://github.com/adobe-fonts/source-serif/releases/tag/4.005R)
 * System emoji font replaced with [Apple's implementation](https://emojipedia.org/apple) (currently used version is 17.4).
 
