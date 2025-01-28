@@ -11,12 +11,17 @@ Notes:
 2. Factory images coming with prebuilt stock firmware (`RQ3A.210805.001.A1` for Android 11 and `SQ3A.220705.003.A1` for Android 12.1), so you don't have to flash it beforehand. If you're installing the OTA build, it might be required to flash the factory images first, as OTA doesn't contain firmware.
 3. For ProtonAOSP 11.6.0, I've made a separate build with [Proton Kernel 2.1](https://github.com/kdrag0n/proton_kernel_redbull/releases/tag/v2.1) prepackaged, that way you can use it with locked bootloader. It retains all the same benefits. Actually I made it just to have all Proton stuff done, I don't recommend using this kernel today. It seems to be not very compatible with modern heavy applications and on the contrary jittering down the device.
 
-Additionally, I offer personal builds of ProtonAOSP 11.6.0. Changes:
+Additionally, I offer personal builds of ProtonAOSP 11.6.0. Changes: 
+
+`protonaosp-redfin-ota-personal_11.6.0-20250105-gapps.zip`
+
 * **Fixed support for modern versions of Magisk/KernelSU.** [Find out how if you need so.](https://gist.github.com/reddxae/749b30675099e6bec4195fbe71ea0bb4)
 * Media volume steps raised to 35.
-* Added three fingers swipe to screenshot gesture.
 * Updated fonts: FiraCode [6.2,](https://github.com/tonsky/FiraCode/releases/tag/6.2) Source Serif [4.005.](https://github.com/adobe-fonts/source-serif/releases/tag/4.005R)
 * System emoji font replaced with [Apple's implementation](https://emojipedia.org/apple) (currently used version is 17.4).
+
+`protonaosp-redfin-ota-personal_11.6.0-20250108-gapps.zip`
+* Added three fingers swipe to screenshot gesture.
 
 You can find my personal builds under [11.6.0 release tag.](https://github.com/reddxae/protonaosp-redfin-builds/releases/tag/11.6.0) They are provided as OTA only.
 
